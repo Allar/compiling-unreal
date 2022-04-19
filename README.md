@@ -12,7 +12,7 @@ I make no claims that any of this information is accurate, correct, or relevant 
 
 ## Licensing
 
-This is GPL v3 because it is not ready for MIT.
+MIT, please contribute knowledge if this helps you discover any. Please. 
 
 ## Build Pipeline Tools
 
