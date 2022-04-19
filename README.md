@@ -2,6 +2,12 @@
 
 A man's notes as he discovers how Unreal Engine compiles things
 
+## Google Slides
+
+This is available in google slides form here, which might either contain more information or less information than this repo because honestly I forgot how I took these notes.
+
+https://docs.google.com/presentation/d/1jRY2raIiX2AlBRhm5b8I98a93de6lihYSmm99asAMfo/edit?usp=sharing
+
 ## Support
 
 If you have gotten any use out of this, please consider becoming one of my [GitHub Sponsors](https://github.com/sponsors/Allar). Even a $1 is very appreciated.
